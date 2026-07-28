@@ -53,7 +53,7 @@ I have worked in international 3D animated productions such as **Tad the Lost Ex
 ## 💬 Connect with me
 
 <p>
-  <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/josirodenas/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:josirodenasg@gmail.com">
