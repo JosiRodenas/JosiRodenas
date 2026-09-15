@@ -7,9 +7,14 @@
 </p>
 
 <hr>
-
+<table>
+  <tr>
+    <td width="40%" align="center" valign="top">
 <img align="right" width="280px" alt="GIF" style="max-width: 45%; height: auto;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDM2c3dsbHhwZTdobXNkaGJ1cTBtOWkzZjJ3Y3Iybzd5ZjhmNmFhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ptqAPgghLtHOa0SLJS/giphy.gif" />
-
+      </td>
+  </tr>
+<tr>
+    <td width="60%" valign="top">
 ### ⭐ About Me ⭐
 
 I am a **3D Animator** 🎬 and **Software Development** student 👩‍💻.
@@ -17,7 +22,9 @@ I am a **3D Animator** 🎬 and **Software Development** student 👩‍💻.
 I have worked in international 3D animated productions such as **Tad the Lost Explorer 3 (Tadeo Jones 3)** and **Cry Babies**. Currently, I am expanding my knowledge in computer science and interactive media. 
 
 👾 *I love building creative, visual, and innovative projects!* 👾
-
+</td>
+  </tr>
+</table>
 <br>
 
 #### 💫 Quick Facts:
