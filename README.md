@@ -8,7 +8,7 @@
 
 <hr>
 
-<img align="right" width="280px" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDM2c3dsbHhwZTdobXNkaGJ1cTBtOWkzZjJ3Y3Iybzd5ZjhmNmFhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ptqAPgghLtHOa0SLJS/giphy.gif" />
+<img align="right" width="280px" alt="GIF" style="max-width: 100%; height: auto;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDM2c3dsbHhwZTdobXNkaGJ1cTBtOWkzZjJ3Y3Iybzd5ZjhmNmFhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ptqAPgghLtHOa0SLJS/giphy.gif" />
 
 ### ⭐ About Me ⭐
 
